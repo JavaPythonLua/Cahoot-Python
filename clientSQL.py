@@ -1,3 +1,7 @@
+#"clientSQL.py" A program to try to re-create the popular quiz game Kahoot! in python
+#Copyright (C) 2026  Alex Inns
+
+
 import socket
 s = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
 print("Created socket")

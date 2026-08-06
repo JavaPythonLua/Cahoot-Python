@@ -1,3 +1,7 @@
+#"packCreatorSQL.py" A program to try to re-create the popular quiz game Kahoot! in python
+#Copyright (C) 2026  Alex Inns
+
+
 import sqlite3
 full_dict = {}
 print("welcome to the Kohoot! question pack creator")

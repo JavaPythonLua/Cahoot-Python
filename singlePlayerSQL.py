@@ -1,3 +1,7 @@
+#"singlePlayerSQL.py" A program to try to re-create the popular quiz game Kahoot! in python
+#Copyright (C) 2026  Alex Inns
+
+
 import time
 import sys
 import os
