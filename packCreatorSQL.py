@@ -1,6 +1,8 @@
 #"packCreatorSQL.py" A program to try to re-create the popular quiz game Kahoot! in python
 #Copyright (C) 2026  Alex Inns
 
+#You should have received a copy of the GNU Affero General Public License along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
 
 import sqlite3
 full_dict = {}

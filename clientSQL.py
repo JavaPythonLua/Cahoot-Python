@@ -1,6 +1,8 @@
 #"clientSQL.py" A program to try to re-create the popular quiz game Kahoot! in python
 #Copyright (C) 2026  Alex Inns
 
+#You should have received a copy of the GNU Affero General Public License along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
 
 import socket
 s = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
